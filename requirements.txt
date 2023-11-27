@@ -12,14 +12,6 @@ essential-generators==1.0
 flatbuffers==23.5.26
 fonttools==4.45.1
 gast==0.5.4
-google-api-core==2.14.0
-google-api-python-client==2.108.0
-google-auth==2.23.4
-google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.1.0
-google-cloud-vision==3.4.5
-google-pasta==0.2.0
-googleapis-common-protos==1.61.0
 grpcio==1.59.3
 grpcio-status==1.59.3
 h5py==3.10.0
